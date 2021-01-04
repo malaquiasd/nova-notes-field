@@ -1,5 +1,5 @@
 {
-  "name": "optimistdigital/nova-notes-field",
+  "name": "malaquiasd/nova-notes-field",
   "description": "This Laravel Nova package adds a notes field to Nova's arsenal of fields.",
   "keywords": [
     "laravel",
